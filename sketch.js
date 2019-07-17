@@ -13,7 +13,7 @@ function make2DArray(cols, rows){
 }
 
 function setup(){
-    createCanvas(400,400);
+    createCanvas(1280,720);
     cols = width/resolution;
     rows = height/resolution;
 
